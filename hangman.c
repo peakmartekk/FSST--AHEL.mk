@@ -1,7 +1,17 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
+    char secret = 'X';
+    char guess = 'Y';
 
-    printf("Hello World!\n");
-    return 0;
+if (secret == guess) {
+    printf("Richtig!");
+}
+else 
+{
+    printf("Fail!");
+}
+return 0;
+
 }
