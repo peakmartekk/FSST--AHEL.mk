@@ -1,17 +1,31 @@
 #include <stdio.h>
 
-int main() 
+int main()
 {
-    char secret = 'X';
-    char guess = 'Y';
+    const char secret[]="Hello";
+    char guess;
 
-if (secret == guess) {
-    printf("Richtig!");
-}
-else 
-{
-    printf("Fail!");
-}
-return 0;
+    printf("Welcher buchstabe is es :");
+    scanf(" %c",&guess);
+    int hits =0;
 
+    for (int i = 0; i < sizeof(secret)- 1; i++)
+    {
+        if ((secret[i])==guess)
+        {
+            hits++;
+        }
+    }
+
+    printf("Treffer:%d",hits);
+    /*if (guess==secret)
+    {
+        printf("Treffer das Wort war %c", secret);
+    }*/
+
+    /*else
+    {
+        printf("Schade");
+    }*/
+    return 0;
 }
