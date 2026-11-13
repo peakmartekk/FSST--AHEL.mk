@@ -1,0 +1,33 @@
+Mini-Projekt
+
+Guten Tag! Ich brauche dringend Ihre Hilfe für mein kleines Café. Bei uns herrscht im Moment etwas Chaos, und ich hoffe, Sie können da eine passende Lösung für uns finden.
+
+Hier ist unser Problem: Bei uns kann man natürlich auch Kaffee zum Mitnehmen bestellen. Bisher schreiben wir die Preise immer auf Zettel, wenn Kunden verschiedene Größen bestellen oder mehrere Getränke auf einmal haben wollen. Oft verliert man dabei den Überblick, besonders wenn es morgens stressig ist und viele Kunden gleichzeitig da sind.
+
+Ich wünsche mir ein einfaches Programm, mit dem wir den Gesamtpreis für eine Bestellung schnell ausrechnen können, ohne lange im Kopf rechnen zu müssen.
+
+1. Ausgangssituation
+In unserem Café bieten wir Kaffee in verschiedenen Größen an, und manchmal bestellen Kunden auch mehrere Becher auf einmal oder möchten zusätzlich einen kleinen Snack wie einen Keks dazu. Bisher führt das oft zu Rechenfehlern an der Kasse, wenn es schnell gehen muss.
+
+2. Dein Anliegen
+Wir brauchen ein kleines Werkzeug, das uns hilft, den Endbetrag für eine Bestellung unkompliziert zu ermitteln, damit wir nicht mehr per Hand rechnen müssen.
+
+3. Gewünschte Funktionen
+Das Programm soll verschiedene Artikel (zum Beispiel Kaffee und Kekse) und deren Preise kennen.
+
+Man soll eingeben können, welche Artikel und wie oft diese bestellt wurden.
+
+Am Ende soll das Programm die Gesamtsumme für die gesamte Bestellung ausgeben.
+
+4. Bedienung
+Das Programm soll direkt über die Befehlszeile gestartet werden können.
+
+Man soll beim Start direkt angeben können, welche Artikel in welcher Anzahl gewünscht sind.
+
+Als Ergebnis möchten wir einfach den Gesamtbetrag der Bestellung auf dem Bildschirm angezeigt bekommen.
+
+5. Beispiel
+Wenn ein Kunde zum Beispiel zwei Kaffee und einen Keks bestellt, geben wir diese Angaben ein, und das Programm rechnet die Preise zusammen und zeigt uns sofort den genauen Endbetrag an, den der Kunde bezahlen muss.
+
+6. Besondere Wünsche
+Es wäre toll, wenn das Programm einfach und unkompliziert bedienbar ist, damit man sich während der Arbeit im Café nicht lange damit aufhalten muss.
